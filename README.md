@@ -37,11 +37,13 @@ Currently exploring:
 ## 🔍 Current Focus
 
 - SOC Analyst Fundamentals
-- Log Analysis
-- Threat Hunting
+- Threat Detection & Log Analysis
 - Network Enumeration
-- Security Tool Development
-- Hack The Box Labs
+- Linux & Security Tooling
+- Practical Labs on Hack The Box
+- Python Security Automation
+
+Currently practicing hands on cybersecurity concepts through labs, security projects, and blue team focused learning paths.
 
 ---
 
@@ -58,13 +60,21 @@ Checks password complexity using security based validation rules.
 
 ---
 
-## 🧠 Platforms
 
-- Hack The Box
+## 🧠 Platforms & Practice
+
+- Hack The Box (SOC Analyst Path)
 - GitHub
-- LinkedIn
-
+- Linux Labs
+- Nmap & Enumeration Practice
+- Security Tool Development
 ---
+## 🛡️ Hands On Learning
+
+- Completed SOC Analyst Job Path on Hack The Box
+- Practicing enumeration and log analysis
+- Working with Linux environments and networking tools
+- Exploring detection and monitoring concepts
 
 ## 📫 Connect With Me
 
