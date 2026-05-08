@@ -69,11 +69,3 @@ Checks password complexity using security based validation rules.
 ## 📫 Connect With Me
 
 - LinkedIn: www.linkedin.com/in/aarav-raj2409
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Aarav249&show_icons=true" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Aarav249&layout=compact" />
-</p>
