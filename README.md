@@ -49,14 +49,33 @@ Currently practicing hands on cybersecurity concepts through labs, security proj
 
 ## 📂 Featured Projects
 
+### 🔹 Mini SIEM Dashboard
+A beginner friendly Security Information and Event Management (SIEM) dashboard built using Python and Flask. The project simulates security logs, detects suspicious activity, and displays alerts through a web based monitoring dashboard.
+
+**Key Features**
+- Simulated security log generation
+- Threat detection engine
+- Alert visualization dashboard
+- SOC style monitoring concepts
+- Flask based web interface
+
+**Technologies Used**
+Python, Flask, HTML, CSS
+
+---
+
 ### 🔹 Port Scanner
-A Python based TCP port scanner for detecting open ports and understanding network services.
+Built a Python based TCP port scanner using socket programming to identify open ports and understand network service exposure.
+
+---
 
 ### 🔹 Log Analyzer
-Analyzes authentication logs and detects suspicious login attempts and brute force patterns.
+Developed a Python log analysis tool to detect failed login attempts and identify suspicious authentication patterns.
+
+---
 
 ### 🔹 Password Strength Checker
-Checks password complexity using security based validation rules.
+Created a password validation tool using regex based security checks for password complexity analysis.
 
 ---
 
